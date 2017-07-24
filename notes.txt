@@ -1,0 +1,22 @@
+Client,
+Server,
+Database
+
+Add/Save todo
+Mark as completed
+Remind user
+Remove todo
+Share todo
+Update/change todo
+Search todo
+List todo
+
+Create, 
+Read,
+Update,
+Delete
+
+
+
+
+
